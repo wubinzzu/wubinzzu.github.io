@@ -18,7 +18,7 @@ Education
 Publications
 ======
 <ol>
-<li> Bin Wu, Yun Chen and Yandong Ye. “Visual Appearance or Functional Complementarity: which aspectaffects your decision making?”.Information Sciences, 476:19-37,2019.  (CCF Rank B, Impact Factor: 4.305) </li>
+<li> Bin Wu, Yun Chen and Yandong Ye. “Visual Appearance or Functional Complementarity: which aspectaffects your decision making?”.Information Sciences, 476:19-37,2019.  (CCF Rank <b> B </b>, Impact Factor: 4.305) </li>
 </ol>
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://wubinzzu.github.io/files/CV.pdf)
