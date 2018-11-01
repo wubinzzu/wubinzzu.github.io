@@ -39,9 +39,9 @@ Publications
 
 <li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu and Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584,2019. <b> Co-firstAuthor</b>.  (中科院二区顶级期刊, Impact Factor: <b>3.768</b>) </li>
 
-<li> <b>Bin Wu</b>, Zhengzheng Lou, Yangdong Ye. “Co-Regularized Matrix Factorization Recommendation Algorithm”,Journal of Software, 29(9):2681-2696, 2018.  (国内一级学报) </li>
+<li> <b>Bin Wu</b>, Zhengzheng Lou, Yangdong Ye. “Co-Regularized Matrix Factorization Recommendation Algorithm”, Journal of Software, 29(9):2681-2696, 2018.  (国内一级学报) </li>
 
-<li> <b>Bin Wu</b>, Zhengzheng Lou and Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”,Journal of Computer Research and Development, accept.  (国内一级学报) </li>
+<li> <b>Bin Wu</b>, Zhengzheng Lou and Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”, Journal of Computer Research and Development, accept.  (国内一级学报) </li>
 
 <li> Chen Ma, Peng Kang, <b>BinWu</b> and Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM2019, accept.  (CCF Rank <b> B </b>) </li>
 
@@ -61,7 +61,7 @@ Academic Activities
 ======
 * PC member: RS@SAC’17
 * Reviewer: Neurocomputing
-* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18,AAAI’19
+* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19
 
 Skills
 ======
