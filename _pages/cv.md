@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 PhD Candidate
+
 Education
 ======
 * B.S. in Zhengzhou University, 2009-2013
