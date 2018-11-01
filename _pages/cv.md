@@ -23,6 +23,9 @@ Biography
 ======
 I am a third year PhD student from <a href="http://www.zzu.edu.cn/"> Zhengzhou University </a>, advised by Prof. Yang-Dong Ye. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www.zzu.edu.cn/">Zhengzhou University</a>. 
 
+Research Interest
+======
+Recommender Systems, Machine Learning, Social Network analysis, Multimedia. 
 Publications
 ======
 <ol>
