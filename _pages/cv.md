@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PhD Candidate
+<h3>PhD Candidate</h2>
 
 Education
 ======
