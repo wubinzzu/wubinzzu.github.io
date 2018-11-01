@@ -18,11 +18,11 @@ redirect_from:
 
 Supervisor
 ======
-<a href="http://www.zzu.edu.cn/"> Professor Yang-Dong Ye </a>
+<a href="http://www5.zzu.edu.cn/mlis/"> Professor Yang-Dong Ye </a>
 
 Biography
 ======
-I am a third year PhD student from <a href="http://www.zzu.edu.cn/"> Zhengzhou University </a>, advised by Prof. Yang-Dong Ye. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www.zzu.edu.cn/">Zhengzhou University</a>. 
+I am a third year PhD student from <a href="http://www15.zzu.edu.cn/"> Zhengzhou University </a>, advised by Prof. Yang-Dong Ye. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. 
 
 Research Interest
 ======
