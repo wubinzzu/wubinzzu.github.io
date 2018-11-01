@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>PhD Candidate</h2>
+<h3>PhD Candidate</h3>
 <h2>School of Information Engineering</h2>
 <h2>Zhengzhou University, Zhengzhou China</h2>
 <h2>Email: wubin@gs.zzu.edu.cn </h2>
