@@ -11,6 +11,14 @@ redirect_from:
 
 <h3>PhD Candidate</h2>
 
+<h3>School of Information Engineering</h3>
+
+<h3>Zhengzhou University, Zhengzhou China</h3>
+
+<h3>Email: wubin@gs.zzu.edu.cn </h3>
+
+<h3>URL: http://wubinzzu.github.io </h3>
+
 Education
 ======
 * B.S. in Zhengzhou University, 2009-2013
