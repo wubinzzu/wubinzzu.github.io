@@ -26,6 +26,7 @@ I am a third year PhD student from <a href="http://www.zzu.edu.cn/"> Zhengzhou U
 Research Interest
 ======
 Recommender Systems, Machine Learning, Social Network analysis, Multimedia. 
+
 Publications
 ======
 <ol>
@@ -43,6 +44,26 @@ Publications
 
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
+
+Honors and Awards
+======
+* Academic Scholarship for Doctoral Students, Zhengzhou University, 2016-2018
+* Academic Scholarship for Graduate Students, Zhengzhou University, 2013-2016
+* Excellent Graduate Student, Zhengzhou University, 2013
+* National Encouragement Scholarship, 2011-2012
+* University Scholarship, Zhengzhou University, 2009-2011
+* University Merit Students, Zhengzhou University, 2009-2012
+
+Academic Activities
+======
+* PC member: RS@SAC’17
+* Reviewer: Neurocomputing
+* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journalof Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18,AAAI’19
+
+Skills
+======
+* Programming : Java, Python, Matlab, C++, Latex
+* Applications: Librec (Core Developer), Mahout, MyMediaLite, Weka
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://wubinzzu.github.io/files/CV.pdf)
 
