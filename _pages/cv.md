@@ -13,13 +13,15 @@ redirect_from:
 <h4>School of Information Engineering</h4>
 <h4>Zhengzhou University, Zhengzhou China</h4>
 <h4>Email: wubin@gs.zzu.edu.cn </h4>
-<h4>URL: <a href="https://wubinzzu.github.io">http://wubinzzu.github.io</a> </h4>
+<h4>URL: <a href="https://wubinzzu.github.io">https://wubinzzu.github.io</a> </h4>
 
-Education
+Supervisor
 ======
-* B.S. in Zhengzhou University, 2009-2013
-* M.S. in Zhengzhou University, 2013-2016
-* Ph.D Candidate in Zhengzhou University, 2016
+<a href="http://www.zzu.edu.cn/"> Professor Yang-Dong Ye </a>
+
+Biography
+======
+I am a third year PhD student from <a href="http://www.zzu.edu.cn/"> Zhengzhou University </a>, advised by Prof. Yang-Dong Ye. I received my B.S. degree and M.S. degree in School of Information Engineering from Zhengzhou University. 
 
 Publications
 ======
