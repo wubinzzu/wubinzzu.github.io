@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bin wu, zzu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bin Wu"
 description              : &description "personal description"
 url                      : https://wubinzzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Bin wu"
+  avatar           : "wubin.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Henan, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            :wubin@gs.zzu.edu.cn
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wubinzzu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/wubinzzu"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
