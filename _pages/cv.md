@@ -13,7 +13,7 @@ redirect_from:
 <h4>School of Information Engineering</h4>
 <h4>Zhengzhou University, Zhengzhou China</h4>
 <h4>Email: wubin@gs.zzu.edu.cn </h4>
-<h4>URL: <a href="http://wubinzzu.github.io">http://wubinzzu.github.io</a> </h4>
+<h4>URL: <a href="https://wubinzzu.github.io">http://wubinzzu.github.io</a> </h4>
 
 Education
 ======
