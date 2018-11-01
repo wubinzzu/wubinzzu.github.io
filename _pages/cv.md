@@ -14,11 +14,6 @@ Education
 * B.S. in Zhengzhou University, 2009-2013
 * M.S. in Zhengzhou University, 2013-2016
 * Ph.D Candidate in Zhengzhou University, 2016
-
-Work experience
-======
-
-
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://wubinzzu.github.io/files/CV.pdf)
 
 <!-- <embed src="http://lzheng21.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
