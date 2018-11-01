@@ -7,19 +7,18 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin wu, zzu"
+title                    : "Lei Zheng, UIC"
 title_separator          : "-"
-name                     : &name "Bin Wu"
-description              : &description "personal description"
-url                      : https://wubinzzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lei Zheng"
+description              : &description "Ph.D. Candidate at UIC"
+url                      : https://lzheng21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wubinzzu.github.io"
+repository               : "lzheng21.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin wu"
-  avatar           : "wubin.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Henan, China"
+  name             : "Lei Zheng"
+  avatar           : "me.jpg"
+  bio              : "Ph.D. Candidate at University of Illinois at Chicago (UIC)"
+  location         : "IL, USA"
   employer         :
-  googlescholar    : 
-  email            :"wubin@gs.zzu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=XMirSfAAAAAJ&hl=en"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wubinzzu"
+  github           : "lzheng21"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/wubinzzu"
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/lei-zheng-6814bb103/"
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
