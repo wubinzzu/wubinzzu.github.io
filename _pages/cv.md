@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<h5>PhD Candidate</h5>
-<h5>School of Information Engineering</h5>
-<h5>Zhengzhou University, Zhengzhou China</h5>
-<h5>Email: wubin@gs.zzu.edu.cn </h5>
-<h5>URL: http://wubinzzu.github.io </h5>
+<h4>PhD Candidate</h4>
+<h4>School of Information Engineering</h4>
+<h4>Zhengzhou University, Zhengzhou China</h4>
+<h4>Email: wubin@gs.zzu.edu.cn </h4>
+<h4>URL: http://wubinzzu.github.io </h4>
 
 Education
 ======
