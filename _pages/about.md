@@ -59,7 +59,7 @@ Academic Activities
 ======
 * PC member: RS@SAC’17
 * Reviewer: Neurocomputing
-* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journalof Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18,AAAI’19
+* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18,AAAI’19
 
 Skills
 ======
