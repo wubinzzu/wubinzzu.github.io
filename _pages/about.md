@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font size="4">
+<font size="10">
 PhD Candidate <br/>
 School of Information Engineering <br/>
 Zhengzhou University, Zhengzhou China <br/>
