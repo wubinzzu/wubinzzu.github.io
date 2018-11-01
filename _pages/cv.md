@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-======
-<br><h2>PhD Candidate</h2></br>
+PhD Candidate
 Education
 ======
 * B.S. in Zhengzhou University, 2009-2013
