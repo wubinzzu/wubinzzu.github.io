@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Zheng, UIC"
+title                    : "Bin Wu, ZZU"
 title_separator          : "-"
-name                     : &name "Lei Zheng"
+name                     : &name "Bin Wu"
 description              : &description "Ph.D. Candidate at UIC"
-url                      : https://lzheng21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wubinzzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lzheng21.github.io"
+repository               : "wubinzzu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei Zheng"
+  name             : "Bin Wu"
   avatar           : "wubin.jpg"
-  bio              : "Ph.D. Candidate at University of Illinois at Chicago (UIC)"
-  location         : "IL, USA"
+  bio              : "Ph.D. Candidate at Zhengzhou University"
+  location         : "Henan, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=XMirSfAAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzheng21"
+  github           : "wubinzzu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lei-zheng-6814bb103/"
+  linkedin         : "https://www.linkedin.com/in/wubinzzu/"
   orcid            : #""
   pinterest        :
   soundcloud       :
