@@ -10,11 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-<font size="2">PhD Candidate
+<font size="2">
+PhD Candidate
 School of Information Engineering
 Zhengzhou University, Zhengzhou China
 Email: wubin@gs.zzu.edu.cn
-URL: <a href="https://wubinzzu.github.io">https://wubinzzu.github.io</a> </font> 
+URL: <a href="https://wubinzzu.github.io">https://wubinzzu.github.io</a> 
+</font> 
 
 Supervisor
 ======
