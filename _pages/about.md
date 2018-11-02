@@ -37,7 +37,7 @@ Publications
 
 <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie and Yangdong Ye. “Modeling Product’s Intrinsic andExtrinsic Characteristics for Recommender Systems”. IEEETKDE, under review. </li>
 
-<li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu and Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584,2019. <b> Co-firstAuthor</b>.  (中科院二区顶级期刊, Impact Factor: <b>3.768</b>) </li>
+<li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu and Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584,2019. <b> Co-first Author</b>.  (中科院二区顶级期刊, Impact Factor: <b>3.768</b>) </li>
 
 <li> <b>Bin Wu</b>, Zhengzheng Lou, Yangdong Ye. “Co-Regularized Matrix Factorization Recommendation Algorithm”, Journal of Software, 29(9):2681-2696, 2018.  (国内一级学报) </li>
 
