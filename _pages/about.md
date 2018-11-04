@@ -69,10 +69,10 @@ Skills
 * Applications: Librec (Core Developer), Mahout, MyMediaLite, Weka
 
 <!-- hitwebcounter Code START -->
-<a href="http://www.hitwebcounter.com" target="_blank">
+Visitors   <a href="http://www.hitwebcounter.com" target="_blank">
 <img src="http://hitwebcounter.com/counter/counter.php?page=7006719&style=0002&nbdigits=5&type=page&initCount=0" title="url and counting visits" Alt="url and counting visits"   border="0" >
 </a>                                        <br/>
                                         <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
                                         target="_blank" style="font-family: ; 
-                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        font-size: px; color: #; text-decoration:  ;">
                                         </a>   
