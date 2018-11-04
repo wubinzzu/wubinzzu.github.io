@@ -68,12 +68,4 @@ Skills
 * Programming : Java, Python, Matlab, C++, Latex
 * Applications: Librec (Core Developer), Mahout, MyMediaLite, Weka
 
-<!-- hitwebcounter Code START -->
-<a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7006720&style=0049&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
-</a>                                        <br/>
-                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
-                                        target="_blank" style="font-family: ; 
-                                        font-size: px; color: #; text-decoration:  ;">
-                                        </a>   
-
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=9UXx_MupUqSlRNfSTpb5W5pK3KaR7yxYEOxwYz_q4r4&cl=ffffff&w=a"></script>
