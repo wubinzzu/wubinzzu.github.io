@@ -70,10 +70,10 @@ Skills
 
 <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7006720&style=0049&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
+ Visitors      <img src="http://hitwebcounter.com/counter/counter.php?page=7006720&style=0049&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
 </a>                                        <br/>
                                         <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
                                         target="_blank" style="font-family: ; 
-                                        font-size: px; color: #; text-decoration:  ;"><b>      Visitors                                 </b>
+                                        font-size: px; color: #; text-decoration:  ;">
                                         </a>   
 
