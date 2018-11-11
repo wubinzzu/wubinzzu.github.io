@@ -63,7 +63,7 @@ Honors and Awards
 Academic Activities
 ======
 * PC member: RS@SAC’17
-* Reviewer: Neurocomputing
+* Reviewer: Neurocomputing, Multimedia Systems
 * External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19
 
 Skills
