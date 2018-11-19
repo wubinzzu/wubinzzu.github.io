@@ -43,6 +43,8 @@ Publications
 
 <li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”, Journal of Computer Research and Development, Accept.  (国内一级学报EI) </li>
 
+<li> <b>Bin Wu</b>, Yun Chen, Zhongchuan Sun & Yangdong Ye. “Co-pairwise ranking model for item recommendation”, Journal on Communications, Under Review</li>
+
 <li> Chen Ma, Peng Kang, <b>BinWu</b> & Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM2019, Accept.  (CCF Rank <b> B </b>) </li>
 
 <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with
