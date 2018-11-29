@@ -35,7 +35,7 @@ Publications
 <ol>
 <li> <b>Bin Wu</b>, Yun Chen & Yandong Ye. “Visual Appearance or Functional Complementarity: which aspect affects your decision making?”. Information Sciences, 476:19-37,2019.  (中科院二区顶级期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
 
-<li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie & Yangdong Ye. “Modeling Product’s Intrinsic andExtrinsic Characteristics for Recommender Systems”. IEEE TKDE, Under Review. </li>
+<li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie & Yangdong Ye. “Modeling Product’s Intrinsic and Extrinsic Characteristics for Recommender Systems”. IEEE TKDE, Under Review. </li>
 
 <li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu & Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584,2019. <b> Co-first Author</b>.  (中科院二区顶级期刊, <b>Q1</b>, CCF Rank <b> C </b>, Impact Factor: <b>3.768</b>) <a href="https://github.com/ZhongchuanSun/APL"><b>code</b></a></li>
 
