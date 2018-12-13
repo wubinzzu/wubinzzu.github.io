@@ -71,6 +71,6 @@ Academic Activities
 Skills
 ======
 * Programming : Java, Python, Matlab, C++, Latex
-* Applications: Librec (<b>Core Developer<\b>), Mahout, MyMediaLite, Weka
+* Applications: Librec (<b>Core Developer</b>), Mahout, MyMediaLite, Weka
 
 <a href="https://clustrmaps.com/site/1ag6l"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=9UXx_MupUqSlRNfSTpb5W5pK3KaR7yxYEOxwYz_q4r4&cl=ffffff" height="200" width="200" /> </center></a>
