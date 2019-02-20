@@ -45,10 +45,10 @@ Publications
 
 <li> <b>Bin Wu</b>, Yun Chen, Zhongchuan Sun & Yangdong Ye. “Co-pairwise ranking model for item recommendation”, Journal on Communications, Under Review</li>
 
-<li> Chen Ma, Peng Kang, <b>BinWu</b>, Qinglong Wang & Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM2019, Accept.  (CCF Rank <b> B </b>) </li>
+<li> Chen Ma, Peng Kang, <b>BinWu</b>, Qinglong Wang & Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM,519--527,2019.  (CCF Rank <b> B </b>) </li>
 
 <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with
-Factorization for Recommendation”. IEEE TII, Under Review.  <a href="https://github.com/cheungdaven/metricfactorization"><b>code</b></a> </li>
+Factorization for Recommendation”. IEEE TII, Major Revision.  <a href="https://github.com/cheungdaven/metricfactorization"><b>code</b></a> </li>
 
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
