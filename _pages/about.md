@@ -9,26 +9,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<font size="4.5">
-PhD Candidate <br/>
-School of Information Engineering <br/>
-Zhengzhou University, Zhengzhou China <br/>
-Email: wubin@gs.zzu.edu.cn <br/>
-URL: <a href="https://wubinzzu.github.io">https://wubinzzu.github.io</a>  <br/>
-</font> 
-
 Supervisor
 ======
 <a href="http://www5.zzu.edu.cn/mlis/"> Professor Yang-Dong Ye </a>
 
 Biography
 ======
-I am a third year PhD student from <a href="http://www15.zzu.edu.cn/"> Zhengzhou University </a>, advised by Prof. Yang-Dong Ye. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. 
+I am a Ph.D. student at <a href="http://www15.zzu.edu.cn/"> Zhengzhou University </a>, advised by <a href="http://www5.zzu.edu.cn/mlis/"> Prof. Yang-Dong Ye </a>. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. 
 
 Research Interests
 ======
-Recommender Systems, Machine Learning, Social Network Analysis, Multimedia. 
+Recommender Systems, Deep Learning, Social Network Analysis, Multimedia. 
 
 Publications
 ======
