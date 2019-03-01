@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Supervisor
-======
-<a href="http://www5.zzu.edu.cn/mlis/"> Professor Yang-Dong Ye </a>
+
+
 
 Biography
 ======
