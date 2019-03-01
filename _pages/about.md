@@ -23,7 +23,7 @@ Recommender Systems, Deep Learning, Social Network Analysis, Multimedia.
 Publications
 ======
 <ol>
-<li> <b>Bin Wu</b>, Yun Chen & Yandong Ye. “Visual Appearance or Functional Complementarity: which aspect affects your decision making?”. Information Sciences, 476:19-37,2019.  (中科院二区顶级期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
+<li> <b>Bin Wu</b>, Yandong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: which aspect affects your decision making?”. Information Sciences, 476:19-37,2019.  (中科院二区顶级期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
 
 <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie & Yangdong Ye. “Modeling Product’s Intrinsic and Extrinsic Characteristics for Recommender Systems”. IEEE TKDE, Under Review. </li>
 
