@@ -64,12 +64,12 @@ Honors and Awards
 
 Academic Activities
 ======
-* Reviewer: Neurocomputing, Multimedia Systems,IJCNN 2019,RS@SAC’17
+* Reviewer: Neurocomputing, Multimedia Systems, IJCNN 2019, RS@SAC’17
 * External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19
 
 Skills
 ======
 * Programming : Java, Python, Matlab, C++, Latex
-* Applications: Librec (<b>Core Developer</b>), Mahout, MyMediaLite, Weka
+* Applications: Librec (<b>Core Developer</b>), NeuRec (<b>Core Developer</b>), DMahout, MyMediaLite, Weka
 
 <a href="https://clustrmaps.com/site/1ag6l"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=9UXx_MupUqSlRNfSTpb5W5pK3KaR7yxYEOxwYz_q4r4&cl=ffffff" height="200" width="200" /> </center></a>
