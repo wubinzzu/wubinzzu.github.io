@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bin Wu (吴宾)"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-About Me
+Biography
 ======
 I am a Ph.D. student at <a href="http://www15.zzu.edu.cn/"> Zhengzhou University </a>, advised by <a href="http://www5.zzu.edu.cn/mlis/"> Prof. Yang-Dong Ye </a>. I received my B.S. degree and M.S. degree in School of Information Engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. 
 
