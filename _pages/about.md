@@ -33,7 +33,7 @@ Publications
 
 <li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”, Journal of Computer Research and Development, Accept.  (国内一级学报EI) </li>
 
-<li> <b>Bin Wu</b>, Yun Chen, Zhongchuan Sun & Yangdong Ye. “Co-pairwise ranking model for item recommendation”, Journal on Communications, Minor Revision</li>
+<li> <b>Bin Wu</b>, Yun Chen, Zhongchuan Sun & Yangdong Ye. “Co-pairwise ranking model for item recommendation”, Journal on Communications, Minor Revision. (国内一级学报EI)</li>
 
 <li> Chen Ma, Peng Kang, <b>BinWu</b>, Qinglong Wang & Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM,519--527,2019.  (CCF Rank <b> B </b>)  <a href="https://github.com/allenjack/GATE"><b>code</b></a> </li>
 
