@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin Wu, ZZU"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Bin Wu"
-description              : &description "Ph.D. Candidate at UIC"
+description              : &description "Ph.D. Candidate at ZZU"
 url                      : https://wubinzzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wubinzzu.github.io"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin Wu"
+  name             : "Bin Wu(吴宾)"
   avatar           : "wubin.jpg"
   bio              : "Ph.D. Candidate at Zhengzhou University"
   location         : "Zhengzhou,Henan, China"
