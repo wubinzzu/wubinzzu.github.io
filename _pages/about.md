@@ -14,7 +14,7 @@ redirect_from:
 
 Biography
 ======
-I am a Ph.D. student at <a href="http://www15.zzu.edu.cn/"> Zhengzhou University</a>, advised by <a href="http://www5.zzu.edu.cn/mlis/"> Prof. Yang-Dong Ye </a>. I received my B.S. degree from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a> and spent six months visiting <a href="http://www.nextcenter.org/">the NeXT center of National University of Singapore</a>, led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>. Email: wubin@gs.zzu.edu.cn
+I am a Ph.D. student at <a href="http://www15.zzu.edu.cn/"> Zhengzhou University</a>, advised by Prof. <a href="http://www5.zzu.edu.cn/mlis/"> Yang-Dong Ye </a>. I received my B.S. degree from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a> and spent six months visiting <a href="http://www.nextcenter.org/">the NeXT center of National University of Singapore</a>, led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>. Email: wubin@gs.zzu.edu.cn
 
 Research Interests
 ======
