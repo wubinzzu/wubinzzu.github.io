@@ -25,6 +25,8 @@ Publications
 <ol>
 <li> <b>Bin Wu</b>, Yandong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院二区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
 
+<li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, Major Revision. </li>
+
 <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie & Yangdong Ye. “Modeling Product’s Intrinsic and Extrinsic Characteristics for Recommender Systems”. IEEE TKDE, Under Review. </li>
 
 <li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu & Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584, 2019. <b> Co-first Author</b>.  (中科院二区期刊, <b>Q1</b>, CCF Rank <b> C </b>, Impact Factor: <b>3.768</b>) <a href="https://github.com/ZhongchuanSun/APL"><b>code</b></a></li>
@@ -40,7 +42,7 @@ Publications
 <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with
 Factorization for Recommendation”. IEEE TII, Major Revision.  <a href="https://github.com/cheungdaven/metricfactorization"><b>code</b></a> </li>
 
-<li> Shuai Zhang, Yi Tay, Lina Yao,<b>Bin Wu</b>,Aixin Sun. “DeepRec: An Open-source Toolkit for Deep Learning based Recommendation”. IJCAI2019 (demo paper),Under Review. <a href="https://www.researchgate.net/publication/332555888_DeepRec_An_Open-source_Toolkit_for_Deep_Learning_based_Recommendation"><b>PDF</b></a>,<a href="https://github.com/cheungdaven/DeepRec"><b>code</b></a> </li>
+<li> Shuai Zhang, Yi Tay, Lina Yao, <b>Bin Wu</b>, Aixin Sun. “DeepRec: An Open-source Toolkit for Deep Learning based Recommendation”. IJCAI2019 (demo paper),Under Review. <a href="https://www.researchgate.net/publication/332555888_DeepRec_An_Open-source_Toolkit_for_Deep_Learning_based_Recommendation"><b>PDF</b></a>,<a href="https://github.com/cheungdaven/DeepRec"><b>code</b></a> </li>
 
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
@@ -57,7 +59,7 @@ Honors and Awards
 Academic Activities
 ======
 * Reviewer: Neurocomputing, Multimedia Systems, IJCNN 2019, RS@SAC’17
-* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19,IJCAI’19
+* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19, IJCAI’19
 
 Skills
 ======
