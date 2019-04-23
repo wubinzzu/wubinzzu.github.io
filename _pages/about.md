@@ -57,7 +57,7 @@ Honors and Awards
 Academic Activities
 ======
 * Reviewer: Neurocomputing, Multimedia Systems, IJCNN 2019, RS@SAC’17
-* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19
+* External Reviewer: IEEE TKDE, IEEE TSC, ACM TKDD, ACM TIIS, WWWJ, IEEE ACCESS, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19,IJCAI’19
 
 Skills
 ======
