@@ -33,7 +33,7 @@ Publications
 
 <li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “Co-Regularized Matrix Factorization Recommendation Algorithm”, Journal of Software, 29(9):2681-2696, 2018.  (国内一级学报EI) </li>
 
-<li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”, Journal of Computer Research and Development, Accept.  (国内一级学报EI) </li>
+<li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “A Collaborative Filtering Recommendation Algorithm for Multi-Source Heterogeneous Data”, Journal of Computer Research and Development, 56(5):1034-1047,2019.  (国内一级学报EI) </li>
 
 <li> <b>Bin Wu</b>, Yun Chen, Zhongchuan Sun & Yangdong Ye. “Co-pairwise ranking model for item recommendation”, Journal on Communications, Minor Revision. (国内一级学报EI)</li>
 
