@@ -25,7 +25,7 @@ Publications
 <ol>
 <li> <b>Bin Wu</b>, Yandong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院二区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
 
-<li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, Major Revision. </li>
+<li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, Minor Revision. </li>
 
 <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie & Yangdong Ye. “Modeling Product’s Intrinsic and Extrinsic Characteristics for Recommender Systems”. IEEE TKDE, Major Revision. </li>
 
