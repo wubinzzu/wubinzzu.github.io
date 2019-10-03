@@ -39,10 +39,10 @@ Publications
 
 <li> Chen Ma, Peng Kang, <b>Bin Wu</b>, Qinglong Wang & Xue Liu. “Gated Attentive-Autoencoder for Content-Aware Recommendation”. WSDM, 519--527, 2019.  (CCF Rank <b> B </b>)  <a href="https://github.com/allenjack/GATE"><b>code</b></a> </li>
 
-<li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with
-Factorization for Recommendation”. IEEE TII, Minor Revision.  <a href="https://github.com/cheungdaven/metricfactorization"><b>code</b></a> </li>
+<!--<li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with
+Factorization for Recommendation”. IEEE TII, Minor Revision.  <a href="https://github.com/cheungdaven/metricfactorization"><b>code</b></a> </li>-->
 
-<!--<li> Shuai Zhang, Yi Tay, Lina Yao, <b>Bin Wu</b>, Aixin Sun. “DeepRec: An Open-source Toolkit for Deep Learning based Recommendation”. IJCAI2019 (demo paper), Accept. <a href="https://www.researchgate.net/publication/332555888_DeepRec_An_Open-source_Toolkit_for_Deep_Learning_based_Recommendation"><b>PDF</b></a>,<a href="https://github.com/cheungdaven/DeepRec"><b>code</b></a> </li>-->
+<li> Shuai Zhang, Yi Tay, Lina Yao, <b>Bin Wu</b>, Aixin Sun. “DeepRec: An Open-source Toolkit for Deep Learning based Recommendation”. IJCAI2019 (demo paper), Accept. <a href="https://www.researchgate.net/publication/332555888_DeepRec_An_Open-source_Toolkit_for_Deep_Learning_based_Recommendation"><b>PDF</b></a>,<a href="https://github.com/cheungdaven/DeepRec"><b>code</b></a> </li>
 
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
