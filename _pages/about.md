@@ -23,7 +23,15 @@ Recommender Systems, Deep Learning, Social Network Analysis, Multimedia.
 Publications
 ======
 <ol>
+<li> <b>Bin Wu</b>, Xiangnan He, Zhongchuan Sun, Liang Chen & Yangdong Ye. “ATM: An Attentive Translation Model for
+Next-Item Recommendation”. IEEE TII, Accept.  (中科院一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li>
+  
+ <li> Shuai Zhang, Lina Yao, <b>Bin Wu </b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, Accept. <b> Cooresponding Author</b>. (中科院一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li> 
+
 <li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院二区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
+
+<li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院二区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
+
 
 <li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, Minor Revision. </li>
 
