@@ -55,13 +55,15 @@ Factorization for Recommendation”. IEEE TII, Minor Revision.  <a href="https:/
 
 Honors and Awards
 ======
-* Miyoshi graduate students, Zhengzhou University, 2017-2018
-* Academic Scholarship for Doctoral Students, Zhengzhou University, 2016-2018
+* National Scholarship, Zhengzhou University, 2018-2019
+* Graduate Award for Outstanding Achievement, Zhengzhou University, 2017-2018
+* Miyoshi Graduate Student, Zhengzhou University, 2017-2019
+* Academic Scholarship for Doctoral Students, Zhengzhou University, 2016-2019
 * Academic Scholarship for Graduate Students, Zhengzhou University, 2013-2016
-* Excellent Graduate Student, Zhengzhou University, 2013
-* National Encouragement Scholarship, 2011-2012
+* Excellent Graduate Students, Zhengzhou University, 2013
+* National Encouragement Scholarship, Zhengzhou University, 2011-2012
 * University Scholarship, Zhengzhou University, 2009-2011
-* University Merit Students, Zhengzhou University, 2009-2012
+* University Merit Student, Zhengzhou University, 2009-2012
 
 Academic Activities
 ======
