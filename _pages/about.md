@@ -53,12 +53,13 @@ Factorization for Recommendation”. IEEE TII, Minor Revision.  <a href="https:/
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
 
-Publications
+Patents
 ======
 <ol>
  <li> 叶阳东, 孙中川, 吴宾, 吴云鹏. 一种基于成对对抗训练的推荐模型, 在审, No.: 2018112651073. </li>
  <li> 叶阳东, 孙中川, 吴宾. 一种在离散数据上使用对抗模型的方法, 在审, No.: 2019109918257. </li> 
 </ol>
+
 Honors and Awards
 ======
 * Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/9915.htm">郑州大学研究生最高荣誉</a>), Zhengzhou University, 2018-2019
