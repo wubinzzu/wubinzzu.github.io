@@ -56,8 +56,8 @@ Factorization for Recommendation”. IEEE TII, Minor Revision.  <a href="https:/
 Patents
 ======
 <ol>
- <li> 叶阳东, 孙中川, 吴宾, 吴云鹏. 一种基于成对对抗训练的推荐模型, 受理, No.: 2018112651073. </li>
- <li> 叶阳东, 孙中川, 吴宾. 一种在离散数据上使用对抗模型的方法, 在审, No.: 2019109918257. </li> 
+ <li> 叶阳东, 孙中川, 吴宾, 吴云鹏. 一种基于成对对抗训练的推荐模型, 实审, No.: 2018112651073. </li>
+ <li> 叶阳东, 孙中川, 吴宾. 一种在离散数据上使用对抗模型的方法, 受理, No.: 2019109918257. </li> 
 </ol>
 
 Honors and Awards
