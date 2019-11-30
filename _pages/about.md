@@ -28,14 +28,14 @@ Next-Item Recommendation”. IEEE TII, Accept.  (中科院大类一区期刊, <b
   
  <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, Accept. <b>Corresponding Author</b>. (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) <a href="https://github.com/cheungdaven/FML"><b>code</b></a></li>
 
-<li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>4.305</b>) </li>
+<li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>5.524</b>) </li>
 
 
 <li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, Minor Revision. </li>
 
 <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng & Yangdong Ye. “Modeling Product’s Intrinsic and Extrinsic Characteristics for Recommender Systems”. IEEE TKDE, Major Revision. </li>
 
-<li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu & Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584, 2019. <b> Co-first Author</b>.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> C </b>, Impact Factor: <b>3.768</b>) <a href="https://github.com/ZhongchuanSun/APL"><b>code</b></a></li>
+<li> Zhongchuan Sun, <b>Bin Wu</b>, Yunpeng Wu & Yangdong Ye. “APL: Adversarial Pairwise Learning for Recommender Systems”. Expert Systems with Applications, 118:573-584, 2019. <b> Co-first Author</b>.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> C </b>, Impact Factor: <b>4.292</b>) <a href="https://github.com/ZhongchuanSun/APL"><b>code</b></a></li>
 
 <li> <b>Bin Wu</b>, Zhengzheng Lou & Yangdong Ye. “Co-Regularized Matrix Factorization Recommendation Algorithm”, Journal of Software, 29(9):2681-2696, 2018.  (国内一级学报EI) </li>
 
