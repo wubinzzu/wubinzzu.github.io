@@ -24,9 +24,9 @@ Publications
 ======
 <ol>
 <li> <b>Bin Wu</b>, Xiangnan He, Zhongchuan Sun, Liang Chen & Yangdong Ye. “ATM: An Attentive Translation Model for
-Next-Item Recommendation”. IEEE TII, Accept.  (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li>
+Next-Item Recommendation”. IEEE TII, 16(3):1448-1459, 2020.  (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li>
   
- <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, Accept. <b>Corresponding Author</b>. (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) <a href="https://github.com/cheungdaven/FML"><b>code</b></a></li>
+ <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, 16(2):732-742, 2020. <b>Corresponding Author</b>. (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) <a href="https://github.com/cheungdaven/FML"><b>code</b></a></li>
 
 <li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>5.524</b>) </li>
 
