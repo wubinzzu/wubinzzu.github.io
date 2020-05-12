@@ -63,16 +63,16 @@ Patents
 Honors and Awards
 ======
 * Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>), Zhengzhou University, 2018-2019
-* National Scholarship for Graduate Students, Zhengzhou University, 2018-2019
-* Miyoshi Graduate Student, Zhengzhou University, 2018-2019
-* Graduate Award for Outstanding Achievement, Zhengzhou University, 2017-2018
-* Miyoshi Graduate Student, Zhengzhou University, 2017-2018
-* Academic Scholarship for Doctoral Students, Zhengzhou University, 2016-2019
-* Academic Scholarship for Graduate Students, Zhengzhou University, 2013-2016
-* Excellent Graduate Students, Zhengzhou University, 2013
-* National Encouragement Scholarship, Zhengzhou University, 2011-2012
-* University Scholarship, Zhengzhou University, 2009-2011
-* University Merit Student, Zhengzhou University, 2009-2012
+* National Scholarship for Graduate Students, 2018-2019
+* Miyoshi Graduate Student, 2018-2019
+* Graduate Award for Outstanding Achievement, 2017-2018
+* Miyoshi Graduate Student, 2017-2018
+* Academic Scholarship for Doctoral Students, 2016-2019
+* Academic Scholarship for Graduate Students, 2013-2016
+* Excellent Graduate Students, 2013
+* National Encouragement Scholarship, 2011-2012
+* University Scholarship, 2009-2011
+* University Merit Student, 2009-2012
 
 Academic Activities
 ======
