@@ -23,7 +23,7 @@ Recommender Systems, Deep Learning, Social Network Analysis, Multimedia.
 Publications
 ======
 <ol>
- <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng & Yangdong Ye. “Modeling Product’s Visual and Functional Characteristics for Recommender Systems”. IEEE TKDE, Accept, 2020. (中科院大类二区期刊, <b>Q1</b>, CCF Rank <b> A </b>, Impact Factor: <b>3.857</b>)  <a href="https://github.com/wubinzzu/VFPMF"><b>code</b></a> </li>
+ <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng & Yangdong Ye. “Modeling Product’s Visual and Functional Characteristics for Recommender Systems”. IEEE TKDE, Accept, 2020. (中科院大类二区期刊, <b>Q1</b>, CCF Rank <b> A </b>, Impact Factor: <b>3.857</b>) </li>
 
 <li> <b>Bin Wu</b>, Xiangnan He, Zhongchuan Sun, Liang Chen & Yangdong Ye. “ATM: An Attentive Translation Model for
 Next-Item Recommendation”. IEEE TII, 16(3):1448-1459, 2020.  (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li>
