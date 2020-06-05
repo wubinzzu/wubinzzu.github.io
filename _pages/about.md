@@ -62,7 +62,7 @@ Patents
 
 Honors and Awards
 ======
-* Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>),Media Coverage<a href="https://mp.weixin.qq.com/s/IxukXe7H0e04eTOjTRatWw">[1]</a>,<a href="https://mp.weixin.qq.com/s/b1ETJ13P7OtroRF1X_Nzjw">[2]</a>, Zhengzhou University, 2018-2019
+* Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>),Media Coverage<a href="https://mp.weixin.qq.com/s/IxukXe7H0e04eTOjTRatWw">[1]</a>,<a href="https://mp.weixin.qq.com/s/b1ETJ13P7OtroRF1X_Nzjw">[2]</a>, 2018-2019
 * National Scholarship for Graduate Students, 2018-2019
 * Miyoshi Graduate Student, 2018-2019
 * Graduate Award for Outstanding Achievement, 2017-2018
