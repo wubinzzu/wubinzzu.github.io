@@ -47,6 +47,8 @@ Next-Item Recommendation”. IEEE TII, 16(3):1448-1459, 2020.  (中科院大类�
 
 <li> Shuai Zhang, Yi Tay, Lina Yao, <b>Bin Wu</b>, Aixin Sun. “DeepRec: An Open-source Toolkit for Deep Learning based Recommendation”. IJCAI2019 (demo paper), Accept. <a href="https://www.researchgate.net/publication/332555888_DeepRec_An_Open-source_Toolkit_for_Deep_Learning_based_Recommendation"><b>PDF</b></a>,<a href="https://github.com/cheungdaven/DeepRec"><b>code</b></a> </li>
 
+<li> Xuwei He, Bin Wu, Zhongchuan Sun & Yangdong Ye, “Co-attention Mechanism for Sequential Recommendation”. CCIR2020, Accept.
+
 <li> Recommendation Systems Handbook. <b> First Edition & Second Edition,Translator</b>, 2014-2018. </li>
 </ol>
 
@@ -62,6 +64,7 @@ Honors and Awards
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Henan Province</a>, 2020
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Zhengzhou University</a>, 2020
 * <a href="http://gs.zzu.edu.cn/info/1071/10565.htm">郑州大学研究生优秀学位论文嵩山奖</a>, 2020
+* 郑州大学第十四届研究生学术论坛最佳论文奖, 2019
 * Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>),Media Coverage<a href="https://mp.weixin.qq.com/s/IxukXe7H0e04eTOjTRatWw#js_sponsor_ad_area">[1]</a>,<a href="https://mp.weixin.qq.com/s/b1ETJ13P7OtroRF1X_Nzjw#js_name">[2]</a>, 2018-2019
 * National Scholarship for Graduate Students, 2018-2019
 * Miyoshi Graduate Student, 2018-2019
