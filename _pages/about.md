@@ -66,7 +66,7 @@ Honors and Awards
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Zhengzhou University</a>, 2020
 * 郑州大学研究生优秀学位论文嵩山奖, Media Coverage<a href="http://gs.zzu.edu.cn/info/1071/10565.htm">[1]</a>,<a href="http://www16.zzu.edu.cn/msgs/vmsgisapi.dll/onemsg?msgid=2007061642328156955">[2]</a>，2020
 * 郑州大学第十四届研究生学术论坛最佳论文奖, 2019
-* Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>),Media Coverage<a href="https://mp.weixin.qq.com/s/IxukXe7H0e04eTOjTRatWw#js_sponsor_ad_area">[1]</a>,<a href="https://mp.weixin.qq.com/s/b1ETJ13P7OtroRF1X_Nzjw#js_name">[2]</a>, 2018-2019
+* Top 10 Graduate Students (<a href="http://gs.zzu.edu.cn/info/1071/10075.htm">郑州大学研究生最高荣誉</a>), Media Coverage<a href="https://mp.weixin.qq.com/s/IxukXe7H0e04eTOjTRatWw#js_sponsor_ad_area">[1]</a>,<a href="https://mp.weixin.qq.com/s/b1ETJ13P7OtroRF1X_Nzjw#js_name">[2]</a>, 2018-2019
 * National Scholarship for Graduate Students, 2018-2019
 * Miyoshi Graduate Student, 2018-2019
 * Graduate Award for Outstanding Achievement, 2017-2018
