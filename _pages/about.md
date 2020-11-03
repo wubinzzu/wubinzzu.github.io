@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 {% include base_path %}
 
 
