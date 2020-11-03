@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : ""
 name                     : &name "Bin Wu"
-description              : &description "Ph.D. Candidate at ZZU"
+description              : &description "Researcher at ZZU"
 url                      : https://wubinzzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wubinzzu.github.io"
@@ -22,7 +22,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : Bin Wu
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,11 +81,12 @@ analytics:
 author:
   name             : "Bin Wu(吴宾)"
   avatar           : "wubin.jpg"
-  bio              : "Ph.D. Candidate at Zhengzhou University"
-  location         : "Zhengzhou,Henan, China"
+  bio              : "Researcher at Zhengzhou University"
+  location         : "Zhengzhou, Henan, China"
   employer         :
   googlescholar    : 
-  EMAIL            : "wubin@gs.zzu.edu.cn" 
+  email            : "wubin7019088@gmail.com" 
+  researchgate     : "https://www.researchgate.net/profile/Wu_Bin16"
   uri              :
   bitbucket        :
   codepen          :
