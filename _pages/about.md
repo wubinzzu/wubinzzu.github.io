@@ -23,14 +23,14 @@ Recommender Systems, Deep Learning, Social Network Analysis, Multimedia.
 Publications
 ======
 <ol>
- <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng & Yangdong Ye. “Modeling Product’s Visual and Functional Characteristics for Recommender Systems”. IEEE TKDE, Accept, 2020. (中科院大类二区期刊, <b>Q1</b>, CCF Rank <b> A </b>, Impact Factor: <b>3.857</b>) </li>
+ <li> <b>Bin Wu</b>, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng & Yangdong Ye. “Modeling Product’s Visual and Functional Characteristics for Recommender Systems”. IEEE TKDE, Accept, 2020. (中科院大类二区期刊, <b>Q1</b>, CCF Rank <b> A </b>, Impact Factor: <b>4.935</b>) </li>
 
 <li> <b>Bin Wu</b>, Xiangnan He, Zhongchuan Sun, Liang Chen & Yangdong Ye. “ATM: An Attentive Translation Model for
-Next-Item Recommendation”. IEEE TII, 16(3):1448-1459, 2020.  (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) </li>
+Next-Item Recommendation”. IEEE TII, 16(3):1448-1459, 2020.  (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>9.112</b>) </li>
   
- <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, 16(2):732-742, 2020. <b>Corresponding Author</b>. (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>7.377</b>) <a href="https://github.com/cheungdaven/FML"><b>code</b></a></li>
+ <li> Shuai Zhang, Lina Yao, <b>Bin Wu</b>, Xiwei Xu, Xiang Zhang & Liming Zhu. “Unraveling Metric Vector Spaces with Factorization for Recommendation”. IEEE TII, 16(2):732-742, 2020. <b>Corresponding Author</b>. (中科院大类一区期刊, <b>Q1</b>, Impact Factor: <b>9.112</b>) <a href="https://github.com/cheungdaven/FML"><b>code</b></a></li>
 
-<li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>5.524</b>) </li>
+<li> <b>Bin Wu</b>, Yangdong Ye & Yun Chen. “Visual Appearance or Functional Complementarity: Which aspect affects your decision making?”. Information Sciences, 476:19-37, 2019.  (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>5.910</b>) </li>
 
 
 <li> <b>Bin Wu</b> & Yangdong Ye. “BSPR: Basket-Sensitive Personalized Ranking for Product Recommendation”. Information Sciences, 541:185-206, 2020. (中科院小类一区期刊, <b>Q1</b>, CCF Rank <b> B </b>, Impact Factor: <b>5.524</b>) <a href="https://github.com/wubinzzu/BSPR"><b>code</b></a></li>
@@ -60,6 +60,8 @@ Patents
 <ol>
  <li> 叶阳东, 孙中川, 吴宾, 吴云鹏. 一种基于成对对抗训练的推荐模型, 实审, CN201811265107.3 </li>
  <li> 叶阳东, 孙中川, 吴宾. 一种在离散数据上使用对抗模型的方法, 受理, CN202010044722.2. </li> 
+ <li> 叶阳东, 吴宾, 孙中川，王有为，梁慧丹. 一种基于高阶平移模型的物品推荐方法, 受理, CN202010536656.0. </li> 
+ <li> 叶阳东, 吴宾, 梁慧丹，孙中川. 一种融合物品内在与外在特性的推荐方法, 受理, CN202010537969.8. </li> 
 </ol>
 
 Honors and Awards
@@ -82,8 +84,8 @@ Honors and Awards
 
 Academic Activities
 ======
-* Reviewer: IEEE TII, IEEE Intelligent Systems, Neurocomputing, Multimedia Systems, ECML-PKDD2020, Pattern Recognition Letters, IJCNN 2019, IJCNN2020, RS@SAC’17
-* External Reviewer: IEEE TKDE, Information Sciences, IEEE TSC, ACM TKDD, ACM TIIS, ACM TIST, WWWJ, IEEE ACCESS, frontiers of Computer Science, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19, IJCAI’19
+* Reviewer: IEEE TII, IEEE TKDE, IEEE Intelligent Systems, Neurocomputing, Multimedia Systems, ECML-PKDD2020, Pattern Recognition Letters, IJCNN 2019, IJCNN2020, RS@SAC’17
+* External Reviewer: Information Sciences, IEEE TSC, ACM TKDD, ACM TIIS, ACM TIST, WWWJ, IEEE ACCESS, frontiers of Computer Science, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19, IJCAI’19
 
 Skills
 ======
