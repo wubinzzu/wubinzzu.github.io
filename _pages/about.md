@@ -14,7 +14,7 @@ redirect_from:
 
 Biography
 ======
-I received my PhD degree in software engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a> and a bachelor degree in computer science and technology from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. My primary research interests lie in recommender systems, knowledge graphs, deep learning, social network analysis, multimedia, etc. I spent six months visiting <a href="http://www.nextcenter.org/">the NExT center</a> at the National University of Singapore, led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>. If you’d like to know more about my work or explore opportunities for collaboration, please get in touch with me! Email: wubin7019088@gmail.com
+Hi, I am Bin Wu. received my PhD degree in software engineering from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a> and a bachelor degree in computer science and technology from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. My primary research interests lie in recommender systems, knowledge graphs, deep learning, social network analysis, multimedia, etc. I spent six months visiting <a href="http://www.nextcenter.org/">the NExT center</a> at the National University of Singapore, led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>. If you’d like to know more about my work or explore opportunities for collaboration, please get in touch with me! Email: wubin7019088@gmail.com
 
 Publications
 ======
@@ -86,6 +86,6 @@ Academic Activities
 Skills
 ======
 * Programming : Java, Python, Latex, Matlab, C++
-* Applications: <a href="https://www.librec.net/">Librec</a>(<b>Core Developer</b>),  <a href="https://github.com/wubinzzu/NeuRec">NeuRec</a>(<b>Creator</b>), <a href="https://github.com/cheungdaven/DeepRec">DeepRec</a>(<b>Core Developer</b>), Mahout, MyMediaLite
+* Applications: <a class="github-button" href="https://github.com/guoguibing/librec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star guoguibing/librec on GitHub">Librec</a>(<b>Core Developer</b>),  <a class="github-button" href="https://github.com/wubinzzu/NeuRec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star wubinzzu/NeuRec on GitHub">NeuRec</a>(<b>Creator</b>), <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>(<b>Core Developer</b>), Mahout, MyMediaLite
 
 <a href="https://clustrmaps.com/site/1ag6l"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=9UXx_MupUqSlRNfSTpb5W5pK3KaR7yxYEOxwYz_q4r4&cl=ffffff" height="200" width="200" /> </center></a>
