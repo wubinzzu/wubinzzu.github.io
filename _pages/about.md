@@ -15,7 +15,7 @@ redirect_from:
 
 Biography
 ======
-Greetings, I am Bin Wu, a researcher from the School of Information Engineering, Zhengzhou University. I received my Ph.D. degree in software engineering and a B.E. degree in computer science and technology from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. My primary research interests lie in recommender systems, knowledge graphs, deep learning, social network analysis, multimedia, etc. I have been a visiting research scholar (advised by <a href="http://staff.ustc.edu.cn/~hexn/"> Dr. Xiangnan He </a>) in NExT++ Center (led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>) at School of Computing , National University of Singapore from Dec. 2018 to Jul. 2019. If you’d like to know more about my work or explore opportunities for collaboration, please get in touch with me!
+Greetings, I am Bin Wu, a researcher from the School of Information Engineering, Zhengzhou University. I received my Ph.D. degree in software engineering and a B.E. degree in computer science and technology from <a href="http://www15.zzu.edu.cn/">Zhengzhou University</a>. My primary research interests lie in recommender systems, knowledge graphs, deep learning, social network analysis, multimedia, etc. I have been a visiting research scholar (advised by <a href="http://staff.ustc.edu.cn/~hexn/"> Dr. Xiangnan He </a>) in NExT++ Center (led by Prof. <a href="https://www.chuatatseng.com/">CHUA Tat Seng</a>) at School of Computing, National University of Singapore from Dec. 2018 to Jul. 2019. If you’d like to know more about my work or explore opportunities for collaboration, please get in touch with me!
 
 Publications
 ======
