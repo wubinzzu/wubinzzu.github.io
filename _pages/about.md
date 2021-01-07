@@ -63,6 +63,7 @@ Patents
 
 Honors and Awards
 ======
+* <a href="http://gs.zzu.edu.cn/info/1048/10922.htm">郑州大学校级优秀博士学位论文奖</a>, 2020
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Henan Province</a>, 2020
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Zhengzhou University</a>, 2020
 * 郑州大学研究生优秀学位论文嵩山奖, Media Coverage<a href="http://gs.zzu.edu.cn/info/1071/10565.htm">[1]</a>,<a href="http://www16.zzu.edu.cn/msgs/vmsgisapi.dll/onemsg?msgid=2007061642328156955">[2]</a>,<a href="http://gs.zzu.edu.cn/info/1048/10845.htm">[3]</a>，2020
