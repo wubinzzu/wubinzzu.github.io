@@ -88,7 +88,7 @@ Academic Activities
 
 Skills
 ======
-* Programming : Java, Python, Latex, Matlab, C++
+* Programming: Java, Python, Latex, Matlab, C++
 * Applications: <a class="github-button" href="https://github.com/guoguibing/librec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star guoguibing/librec on GitHub">Librec</a>(<b>Core Developer</b>),  <a class="github-button" href="https://github.com/wubinzzu/NeuRec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star wubinzzu/NeuRec on GitHub">NeuRec</a>(<b>Creator</b>), <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>(<b>Core Developer</b>), Mahout, MyMediaLite
 
 <a href="https://clustrmaps.com/site/1ag6l"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=9UXx_MupUqSlRNfSTpb5W5pK3KaR7yxYEOxwYz_q4r4&cl=ffffff" height="200" width="200" /> </center></a>
