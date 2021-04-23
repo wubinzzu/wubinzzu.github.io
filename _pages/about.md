@@ -63,7 +63,7 @@ Patents
 
 Honors and Awards
 ======
-*ACM Zhengzhou Doctoral Dissertation award, 2020
+* ACM Zhengzhou Doctoral Dissertation award, 2020
 * <a href="http://gs.zzu.edu.cn/info/1048/10922.htm">郑州大学校级优秀博士学位论文奖</a>, 2020
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Henan Province</a>, 2020
 * <a href="http://www5.zzu.edu.cn/ygb/info/1074/6557.htm">Outstanding Graduate of Zhengzhou University</a>, 2020
