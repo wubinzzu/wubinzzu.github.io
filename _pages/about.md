@@ -83,7 +83,7 @@ Honors and Awards
 
 Academic Activities
 ======
-* Reviewer: ACM TOIS, IEEE TII, IEEE TKDE, Knowledge-based Systems, IEEE Intelligent Systems, Neurocomputing, Expert Systems With Applications, Multimedia Systems, ECML-PKDD2020, Pattern Recognition Letters, IJCNN 2019, IJCNN2020, RS@SAC’17
+* Reviewer: ACM TOIS, IEEE TII, IEEE TKDE, Knowledge-Based Systems, Frontiers of Computer Science, IEEE Intelligent Systems, Neurocomputing, Expert Systems With Applications, Multimedia Systems, ECML-PKDD2020, Pattern Recognition Letters, IJCNN 2019, IJCNN2020, RS@SAC’17
 * External Reviewer: Information Sciences, IEEE TSC, ACM TKDD, ACM TIIS, ACM TIST, WWWJ, IEEE ACCESS, Frontiers of Computer Science, Journal of Software, Journal of Computer Research and Development, Chinese Journal of Computers, SIGIR’18, AAAI’19, SIGIR’19, KDD’19, IJCAI’19
 
 Skills
